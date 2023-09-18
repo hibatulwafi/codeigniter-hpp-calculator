@@ -1,0 +1,11 @@
+role : sales
+username : sales
+password : 123456
+
+role : import
+username : import
+password : 123456
+
+role : management
+username : management
+password : 123456
